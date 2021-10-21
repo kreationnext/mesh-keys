@@ -1,0 +1,149 @@
+api-key:	"6428A06F7803429BB18573C7E073D9EE"
+store:		"jdsportsuk"
+auth-key-id:	"ef8f795297"
+auth-key-code:	"b2b529f68b84e9b4a4cf8b0b132cba6c"
+
+The First One Is Free...
+
+api-key:	"93D4ABE4DA9D4B34AD7E25AB810E87B7"
+store:		"jdsportsie"
+auth-key-id:	"d........."
+auth-key-code:	"f..............................."
+
+api-key:	"A2BBB5261E214130AD2497EF5DACCF2D"
+store:		"jdsportses"
+auth-key-id:	"6........."
+auth-key-code:	"1..............................."
+
+api-key:	"28DBE668B0E54BE2B9A7950413A589DD"
+store:		"jdsportsfr"
+auth-key-id:	"9........."
+auth-key-code:	"4..............................."
+
+api-key:	"0741446CC97D4D2DAAA93BA0861D67A7"
+store:		"jdsportsnl"
+auth-key-id:	"8........."
+auth-key-code:	"6..............................."
+
+api-key:	"FAB867AC9EFC4361BDBAFC3B1B512B31"
+store:		"jdsportsde"
+auth-key-id:	"f........."
+auth-key-code:	"5..............................."
+
+api-key:	"878C1375A5494F7999CEE62FC3C45E11"
+store:		"jdsportsbe"
+auth-key-id:	"e........."
+auth-key-code:	"3..............................."
+
+api-key:	"7850B3A1A6D9492CB738525D386311A9"
+store:		"jdsportsit"
+auth-key-id:	"c........."
+auth-key-code:	"5..............................."
+
+api-key:	"F7196F05C5C74272AE2396F265251C94"
+store:		"jdsportsdk"
+auth-key-id:	"8........."
+auth-key-code:	"5..............................."
+
+api-key:	"12B6253013694B8CAD52970A4E33B693"
+store:		"jdsportsse"
+auth-key-id:	"3........."
+auth-key-code:	"a..............................."
+
+api-key:	"6428A06F7803429BB18573C7E073D9EE"
+store:		"jdsportsmyf"
+auth-key-id:	"8........."
+auth-key-code:	"9..............................."
+
+api-key:	"82BC99FE79AC42E09E35722B3B92A562"
+store:		"jdsportsau"
+auth-key-id:	"d........."
+auth-key-code:	"1..............................."
+
+api-key:	"76B171F3F95147BEBCCAB0509B9ABD0E"
+store:		"jdsportspt"
+auth-key-id:	"b........."
+auth-key-code:	"3..............................."
+ 
+api-key:	"59A2ED4C959E460A813B74FB9E465312"
+store:		"jdsportsat"
+auth-key-id:	"a........."
+auth-key-code:	"f..............................."
+
+api-key:	"FB87C980863D4C5984E1A893B6D075FB"
+store:		"jdsportsfi"
+auth-key-id:	"9........."
+auth-key-code:	"c..............................."
+
+api-key:	"43D04DBA3D65402895B72D8AB7A6154D"
+store:		"jdsportssg"
+auth-key-id:	"6........."
+auth-key-code:	"0..............................."
+
+api-key:	"1F13108153574B20866A02BE3D7578E5"
+store:		"jdsportsjx"
+auth-key-id:	"8........."
+auth-key-code:	"2..............................."
+
+api-key:	"1F13108153574B20866A02BE3D7578E5"
+store:		"jdsportsnz"
+auth-key-id:	"e........."
+auth-key-code:	"f..............................."
+
+api-key:	"189DE78256334D93AF4921E7AD42628A"
+store:		"size"
+auth-key-id:	"c........."
+auth-key-code:	"7..............................."
+
+api-key:	"2CD18052BC0E41B781766C7645D84AFE"
+store:		"sizefr"
+auth-key-id:	"e........."
+auth-key-code:	"1..............................."
+
+api-key:	"2CD18052BC0E41B781766C7645D84AFE"
+store:		"sizeie"
+auth-key-id:	"e........."
+auth-key-code:	"1..............................."
+
+api-key:	"2CD18052BC0E41B781766C7645D84AFE"
+store:		"sizede"
+auth-key-id:	"e........."
+auth-key-code:	"1..............................."
+
+api-key:	"2CD18052BC0E41B781766C7645D84AFE"
+store:		"sizese"
+auth-key-id:	"e........."
+auth-key-code:	"1..............................."
+
+api-key:	"2CD18052BC0E41B781766C7645D84AFE"
+store:		"sizeit"
+auth-key-id:	"e........."
+auth-key-code:	"1..............................."
+
+api-key:	"2CD18052BC0E41B781766C7645D84AFE"
+store:		"sizedk"
+auth-key-id:	"e........."
+auth-key-code:	"1..............................."
+
+api-key:	"2CD18052BC0E41B781766C7645D84AFE"
+store:		"sizees"
+auth-key-id:	"e........."
+auth-key-code:	"1..............................."
+
+api-key:	"2CD18052BC0E41B781766C7645D84AFE"
+store:		"sizenl"
+auth-key-id:	"e........."
+auth-key-code:	"1..............................."
+
+api-key:	"C2FEC949D36D45D5A923144D20BA8154"
+store:		"sizebe"
+auth-key-id:	"c........."
+auth-key-code:	"c..............................."
+
+api-key:	"6F6A58E7640E44BBA383479E19658DFD"
+store:		"footpatrolgb"
+auth-key-id:	"6........."
+auth-key-code:	"9..............................."
+
+api-key:	"BDDC2713C63647D785A7C2D7614C6079"
+store:		"thehipstore"
